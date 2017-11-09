@@ -1,2 +1,1 @@
-# cickány
-# cickány meg valami 
+echo # cickány
